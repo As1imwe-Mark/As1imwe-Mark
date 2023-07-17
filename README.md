@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="[[https://twitter.com/mark asiimwe](https://twitter.com/MarkAsiimwe)](https://twitter.com/MarkAsiimwe?t=fPfXM4CV3OU6gKMNB1RGDA&s=09)" target="blank"><img src="https://img.shields.io/twitter/follow/mark asiimwe?logo=twitter&style=for-the-badge" alt="mark asiimwe" /></a> </p>
 
-- 🌱 I’m currently learning **HTML ,CSS ,REACT ,JAVASCRIPT ,RUBY ,RUBY ON RAILS, DATABASES**
+- 🌱 I’m currently learning **HTML ,CSS ,REACT ,JavaScript ,RUBY ,RUBY ON RAILS, DATABASES**
 
 - 👨‍💻 All of my projects are available at [https://as1imwe-mark.github.io/Portifolio_Website/](https://as1imwe-mark.github.io/Portifolio_Website/)
 
-- 💬 Ask me about **HTML, CSS, javaScrict**
+- 💬 Ask me about **HTML, CSS, JavaScrict**
 
 - 📫 How to reach me **asmarka@outlook.com**
 
