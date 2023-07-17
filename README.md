@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://as1imwe-mark.github.io/Portifolio_Website/](https://as1imwe-mark.github.io/Portifolio_Website/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, javaScrict**
 
 - 📫 How to reach me **asmarka@outlook.com**
 
