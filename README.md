@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **HTML ,CSS ,REACT ,JavaScript ,RUBY ,RUBY ON RAILS, DATABASES**
 
-- 👨‍💻 All of my projects are available at [https://asiimweportifolio.netlify.app/]((https://asiimweportifolio.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://asiimweportifolio.netlify.app/](https://asiimweportifolio.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScrict**
 
